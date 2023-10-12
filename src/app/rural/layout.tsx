@@ -2,7 +2,6 @@
 import type { Metadata } from 'next'
 import './styles.module.css'
 
-// import BlogTitle from './post.mdx';
 const PostMeta = require('./post.mdx');
 
 

@@ -5,7 +5,7 @@ import { useEffect } from "react";
 // We put FC here instead of /components since it's dependent on the route
 // This way we have access to layout.tsx too for article specific styles
 // TODO get slug based on url and use that to import from mdx folder
-export default function MdxJsx() {
+export default function Rural() {
 
     // Use custom bg color to match article
     // Alternatively, could use specific layout.jsx

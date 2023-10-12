@@ -32,7 +32,7 @@ export default function RootLayout({
             </section>
             <Navbar navItems={[
               {path:"/", name:"home"},
-              {path:"/mdxjsx", name: "article"}
+              {path:"/rural", name: "NYT Interactive: A Rural Doctor"}
               ]}/>
           </div>
           <main className="pl-4 pr-4 gap-6 w-full sm:w-[70%] lg:w-[55%]">
