@@ -5,8 +5,8 @@ import { getNearbyGroceries } from '../../../../lib/getNearbyGroceries';
 
 export async function GET(req: NextRequest) {
     const url = new URL(req.url);
-    const rad = url.searchParams.get("rad");
-    const loc = url.searchParams.get("loc");
+    const rad = url.searchParams.get("rad") || "";
+    const loc = url.searchParams.get("loc") || "";
 
     const data = await getNearbyGroceries(rad, loc);
 

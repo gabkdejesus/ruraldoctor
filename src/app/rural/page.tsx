@@ -1,5 +1,5 @@
 "use client"
-import Article, { BlogTitle, BlogDate } from './post.mdx';
+import Article from './post.mdx';
 import { useEffect } from "react";
 
 // We put FC here instead of /components since it's dependent on the route
@@ -10,11 +10,18 @@ export default function MdxJsx() {
     // Use custom bg color to match article
     // Alternatively, could use specific layout.jsx
     useEffect( () => {  
-        document.querySelector("body").classList.remove("from-zinc-950");
-        document.querySelector("body").classList.remove("via-stone-900");
-        document.querySelector("body").classList.remove("to-neutral-950");
-        document.querySelector("body").classList.add("bg-[#592e37]")
-        document.querySelector(".hide-on-article").classList.add("hide");;
+        if (document.querySelector("body") == null) return; // current may be null
+        
+        const body = document.querySelector<HTMLBodyElement>("body");
+        if (body == null) return;
+        body.classList.remove("from-zinc-950");
+        body.classList.remove("via-stone-900");
+        body.classList.remove("to-neutral-950");
+        body.classList.add("bg-[#592e37]")
+        
+        const hide = document.querySelector(".hide-on-article");
+        if (hide == null) return;
+        hide.classList.add("hide");
     }, []);
 
     return (

@@ -1,11 +1,13 @@
 
 import type { Metadata } from 'next'
+import './styles.module.css'
 
-import { BlogTitle, BlogDate } from './post.mdx';
+// import BlogTitle from './post.mdx';
+const PostMeta = require('./post.mdx');
 
 
 export const metadata: Metadata = {
-  title: BlogTitle,
+  title: PostMeta.BlogTitle
 }
 
 export default function Layout({

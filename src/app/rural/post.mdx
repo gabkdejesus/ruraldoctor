@@ -3,6 +3,8 @@ import ScrollVideo from "../components/ScrollVideo"
 import ScrollFrame from "../components/ScrollFrame"
 import ZipCode from "../components/ZipCode"
 
+import Link from 'next/link'
+
 export const BlogTitle = "A Rural Doctor Gave Her All. Then Her Heart Broke."
 export const BlogDate = "September 19, 2022"
 
@@ -10,8 +12,8 @@ export const BlogDate = "September 19, 2022"
 
 <h1 className="text-4xl mt-10 mb-0 font-serif">{BlogTitle}</h1>
 <div className="mt-3">
-<h2>By Oliver Whang for NYT. Programming & Illustrations by Gab K De Jesus</h2>
-<h3>{BlogDate}</h3>
+<h2>Originally on <a href="https://www.nytimes.com/2022/09/19/health/doctor-burnout-west-virginia.html" target="_blank" className="underline hover:text-gray-400">NYT</a> | Art & Interactivity by <a href="https://www.gabkdejesus.com" target="_blank" className="underline hover:text-gray-400">Gab K De Jesus</a></h2>
+<span>&#8592; </span><a href="https://gabkdejesus.com/"  className="underline hover:text-gray-400">Back to Home</a>
 </div>
 
 <section className="mt-10 mb-10">
@@ -229,4 +231,11 @@ export const BlogDate = "September 19, 2022"
 
 
     <img src="img/mug/4.png" className="w-1/2 md:w-1/2 lg:w-1/3 mx-auto my-10"></img>
+</section>
+
+<hr/>
+
+<section className="mb-10 mt-10">
+    <p>Gab here, I hope you enjoyed the interactive article. If you're interested in seeing behind-the-scenes, stay tuned on my <a href="https://www.gabkdejesus.com" target="_blank" className="underline hover:text-gray-400">website</a>!</p>
+    <span>&#8592; </span><a href="https://gabkdejesus.com/"  className="underline hover:text-gray-400">Back to Home</a>
 </section>

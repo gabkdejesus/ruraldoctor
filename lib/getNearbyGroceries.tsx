@@ -15,16 +15,3 @@ export async function getNearbyGroceries(rad?: string, loc?: string) {
     } 
     return res.json();
 }
-
-export async function getMoreNearbyGroceries(pageToken) {
-
-    const key = process.env.GMAPS_KEY; 
-    
-    const url = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?pageToken=${pageToken}&key=${key}`;
-
-    const res = await fetch(url);
-    if (!res.ok) {
-        throw new Error('Failed to fetch more grocery data');
-    } return res.json();
-
-}

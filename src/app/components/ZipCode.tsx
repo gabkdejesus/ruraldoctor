@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react";
-import citiesData from '../USCities.json'
+const citiesData = require('../USCities.json');
 import GroceryCanvas from "./GroceryCanvas";
 
 export default function ZipCode() {
@@ -23,19 +23,19 @@ export default function ZipCode() {
     function getCityName() {
         const currZip = parseInt(zipCode);
 
-        const cityObj = citiesData.filter( city => city.zip_code === currZip)[0];
+        const cityObj = citiesData.filter( (city:any) => city.zip_code === currZip)[0];
         return cityObj.city;
     }
     
     // Get coordinates based on zip code
-    function getCoordsFromZip(params) {
+    function getCoordsFromZip(params: string) {
         const currZip = parseInt(params);
 
-        const cityObj = citiesData.filter( city => city.zip_code === currZip)[0];
+        const cityObj = citiesData.filter( (city:any) => city.zip_code === currZip)[0];
         return(`${cityObj.latitude}%2C${cityObj.longitude}`);
     }
 
-    function handleChange(e) {
+    function handleChange(e:any) {
         setzipCode(e.target.value);
     }
 
@@ -66,7 +66,7 @@ export default function ZipCode() {
         } return res.json();
     }
 
-    async function handleSubmit(e) {
+    async function handleSubmit(e:any) {
         e.preventDefault();
         setIsZero(false);
         setGroceryData([]);
@@ -80,7 +80,7 @@ export default function ZipCode() {
         })
 
         getGroceryData().then(meta => {
-            const data = meta.results.map(grocery => {
+            const data = meta.results.map((grocery:any) => {
                 return grocery.name;
             });
             const cityName = getCityName();
@@ -102,16 +102,16 @@ export default function ZipCode() {
     return (
         <>
             <div className="text-center">
-                <GroceryCanvas num={groceryCount}/>
+                <GroceryCanvas num={String(groceryCount)}/>
 
-                <p>Research shows that more groceries leads to more health. Enter your zip code and see how your area compares to Clay, WV, where Dr. Becher works.</p>
+                <p>Without nearby groceries, it can be difficult to keep healthy. Enter your zip code and see how your area compares to Clay, WV, where Dr. Becher works.</p>
 
                 {/* Form for getting user zip and radius */}
                 <form className="dark: text-black" action="" onSubmit={handleSubmit}>
                     <input onChange={e => setzipCode(e.target.value)} value={zipCode} type="text" placeholder="22201"/>
                     <input onChange={e => setRadius(e.target.value)} value={radius}  type="text" placeholder="400"/>
                     <br/>
-                    <button className="h-10 px-5 m-2 text-emerald-100 transition-colors duration-150 bg-emerald-700 rounded-lg focus:shadow-outline hover:bg-emerald-800">Click to submit</button>
+                    <button className="h-10 px-5 m-2 text-white transition-colors duration-150 hover:bg-[#525252] rounded-lg focus:shadow-outline bg-[#3c2825]">Click to submit</button>
                 </form>
 
                 {/* Loading Message */}

@@ -6,46 +6,48 @@ import { useState } from "react";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 
-const navItems = [
-    {
-      path: "/",
-      name: "Home",
-    },
-    {
-      path: "/scrollbar",
-      name: "Scrollbar",
-    },
-    {
-      path: "/scrollvideo",
-      name: "Scrollvideo",
-    },
-    {
-      path: "/zipcode",
-      name: "Zipcode",
-    },
-    {
-      path: "/mdx",
-      name: "mdx",
-    },
-    {
-      path: "/posts/rural",
-      name: "rural",
-    },
-    {
-      path: "/zip",
-      name: "zip"
-    },
-    {
-      path: "/groceries",
-      name: "groceries"
-    },
-    {
-      path: "/api/test/150",
-      name: "Nearby Groceries API"
-    }
-];
+// const navItems = [
+//     {
+//       path: "/",
+//       name: "Home",
+//     },
+//     {
+//       path: "/scrollbar",
+//       name: "Scrollbar",
+//     },
+//     {
+//       path: "/scrollvideo",
+//       name: "Scrollvideo",
+//     },
+//     {
+//       path: "/zipcode",
+//       name: "Zipcode",
+//     },
+//     {
+//       path: "/mdx",
+//       name: "mdx",
+//     },
+//     {
+//       path: "/posts/rural",
+//       name: "rural",
+//     },
+//     {
+//       path: "/zip",
+//       name: "zip"
+//     },
+//     {
+//       path: "/groceries",
+//       name: "groceries"
+//     },
+//     {
+//       path: "/api/test/150",
+//       name: "Nearby Groceries API"
+//     }
+// ];
 
-export default function Navbar() {
+
+
+export default function Navbar(props:any) {
     let pathname = usePathname() || "/";
 
     if (pathname.includes("/writing/")) {
@@ -59,7 +61,7 @@ export default function Navbar() {
       <nav className="flex gap-2 relative justify-start w-full z-[100]  rounded-lg">
         {/* For each link in navItem, isActive means on that current page */}
         {/* And if isActive, then give different color of nav text */}
-        {navItems.map((item, index) => {
+        {props.navItems.map((item:any, index:any) => {
           const isActive = item.path === pathname;
 
           return (

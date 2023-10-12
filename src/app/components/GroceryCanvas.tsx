@@ -2,13 +2,17 @@
 
 import { useRef, useEffect } from 'react';
 
+interface Props {
+    num: string
+}
+
 // Draw groceries to visualize zipcode nearby groceries
 // https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/drawImage
 // https://medium.com/@pdx.lucasm/canvas-with-react-js-32e133c05258
-export default function GroceryCanvas(props) {
-    const canvasRef = useRef(null);
+export default function GroceryCanvas(props: Props) {
+    const canvasRef = useRef<HTMLCanvasElement>(null);
 
-    function randInt(min, max) {
+    function randInt(min:number , max?: number) {
         if (max === undefined) {
             max = min;
             min = 0;
@@ -18,6 +22,8 @@ export default function GroceryCanvas(props) {
 
     useEffect( () => {
         const canvas = canvasRef.current;
+        
+        if (canvas == null) return; // current may be null
         const ctx = canvas.getContext('2d');
 
         // Load Image
@@ -25,7 +31,8 @@ export default function GroceryCanvas(props) {
         image.src = "img/groceryv2.png";
         image.onload = drawImageActualSize;
 
-        function drawImageActualSize() {
+        function drawImageActualSize(this:any) {
+            if (canvas == null) return; // current may be null
             canvas.style.width = "100%";
             canvas.style.height = "100%";
             canvas.width = canvas.offsetWidth;
@@ -51,12 +58,12 @@ export default function GroceryCanvas(props) {
             // } 
             
             // Draw grocery images
-            for (let i = 0; i < props.num; i++) {
+            for (let i = 0; i < Number(props.num); i=i+2) {
                 const scale = 0.12;
                 var x = randInt(canvas.width - this.width * scale);               
                 var y = randInt(canvas.height - this.height * scale);
 
-                console.log('Drawing grocery at ', x, y)
+                if (ctx == null) return; // current may be null
                 ctx.drawImage(this, x, y, this.width*scale, this.height*scale);
             }
         }
