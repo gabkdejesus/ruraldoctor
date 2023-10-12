@@ -28,7 +28,7 @@ export default function GroceryCanvas(props: Props) {
 
         // Load Image
         const image = new Image();
-        image.src = "img/groceryv2.png";
+        image.src = "/img/groceryv2.PNG";
         image.onload = drawImageActualSize;
 
         function drawImageActualSize(this:any) {
@@ -72,7 +72,7 @@ export default function GroceryCanvas(props: Props) {
 
     return (
         <div className="" style={{height: "50vh"}}>
-            <canvas ref={canvasRef} className="bg-[url('/img/mapbgv2.jpg')] bg-cover"></canvas>
+            <canvas ref={canvasRef} className="bg-[url('/img/mapbgv2.jpg')] bg-cover h-full"></canvas>
         </div>
     );
 }
