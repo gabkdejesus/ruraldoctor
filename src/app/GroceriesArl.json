@@ -1,0 +1,3302 @@
+{
+    "html_attributions": [],
+    "next_page_token": "ATJ83zhomF4KkKKKciH0PUj8jn6va29OtEExq5AwxBJbtBRJ7kTj27u2V4nuxPSlnAoCC7lv0ytfAtb7WVmMq9jln2e2WxRvjGoYSPP58raXIZ2lUsifu-xOXyPinjgod87nHCdTWvU9rMqirSlaw0Zl30vg6YgrdzThWLz73qe-jT2dKBlwb-15cmOQ6vQ6ckg5f6hjN5S2_DFMVbt8_g7z0_GUr-QY4i8ZFd1ae2p0haMyslae0n28b-At3DmNJ9zoaX8wQXvXSxQ8YIBAJWxQKsBN4muQFx1O_NLU_fHkHo3kXWEQWlkMfNm5lMTKRFr9BFoHQ7bKTf4uViDNi8ZqkFVE3-QssUoO39uEy9h6qOmoReciZbVU-FEvH0uQRWwJxSIPh8HLcuxZ-EOrCJbNWMtrqSICUXcA3CUpalb-Ed0eIMBm4tOazwuOWKLwPk6LwMtJ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9049595,
+                    "lng": -77.02916359999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.90627102989271,
+                        "lng": -77.02803917010728
+                    },
+                    "southwest": {
+                        "lat": 38.90357137010727,
+                        "lng": -77.03073882989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Streets Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101177020697106408233\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATJ83zhJjscjJFSOsFeIuo8tZ-RdulcrBZFfUm9ZoZ1_eCz2deVzxoJAuEf23AcQQg4zWjwJ8NTuhgAOceYhBfqW9PuZWH9izqEvggc6rE0lmu_yNjz6c9-9vhNVGblqDl5-dycVt_Q9xtiQ0__LM62H96A77IMr8kZdnarcVn8u_5B-k0fg",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJz7YstpS3t4kR-yx-siu2Q2Y",
+            "plus_code": {
+                "compound_code": "WX3C+X8 Washington, District of Columbia",
+                "global_code": "87C4WX3C+X8"
+            },
+            "rating": 4.3,
+            "reference": "ChIJz7YstpS3t4kR-yx-siu2Q2Y",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "liquor_store",
+                "supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 425,
+            "vicinity": "1221 Massachusetts Ave NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9135956,
+                    "lng": -77.0151798
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.91485972989272,
+                        "lng": -77.01386357010728
+                    },
+                    "southwest": {
+                        "lat": 38.91216007010728,
+                        "lng": -77.01656322989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rafael Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103614516640413077339\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATJ83zi6Qi9gubXsiuSt93HFswtRShZ1G55kPXfltWbxyk9V8Vo3541BTlPOX7Z-1NiDdRvA2QaLdr4L04V3QFSE8u_ZcWp0JLZSIt4DbFrJbpxl7v1g5jaSSRrRxUPuLO8z4KkLGlq9_2djaMzqkzcbarxYoCOewnuvYU4mMJVqxgpM2g7A",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJDycyW_e3t4kRdtOfh3b2j5M",
+            "plus_code": {
+                "compound_code": "WX7M+CW Washington, District of Columbia",
+                "global_code": "87C4WX7M+CW"
+            },
+            "rating": 4.8,
+            "reference": "ChIJDycyW_e3t4kRdtOfh3b2j5M",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "liquor_store",
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "233 Florida Ave NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9041139,
+                    "lng": -77.053005
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.90544632989271,
+                        "lng": -77.05180067010728
+                    },
+                    "southwest": {
+                        "lat": 38.90274667010727,
+                        "lng": -77.05450032989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Trader Joe's",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113734237579549231490\">Anthony Hennig</a>"
+                    ],
+                    "photo_reference": "ATJ83ziYzDiam5DVoeejjp51jxEJ2LJ2oNQshLLnA9VQ-4dz-cfyeij2ix93TSk0w7zGxEKL9RHLRFaOJ4ycg1ISPnN0z4UnyGbLi3pAeNsKpwlYOzWMyFX3C5UZrQ0iatZKjSyvdz3Y4VaPS96sw-98v45PrBxDTFD656T4gs8zfjsatiry",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJPWlbYbS3t4kRJFvl1URXiSw",
+            "plus_code": {
+                "compound_code": "WW3W+JQ Washington, District of Columbia",
+                "global_code": "87C4WW3W+JQ"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJPWlbYbS3t4kRJFvl1URXiSw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "liquor_store",
+                "supermarket",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1547,
+            "vicinity": "1101 25th St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9035684,
+                    "lng": -77.01869550000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.90483667989272,
+                        "lng": -77.01746267010728
+                    },
+                    "southwest": {
+                        "lat": 38.90213702010728,
+                        "lng": -77.02016232989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Safeway",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3008,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112914543520953253951\">Darian Glover</a>"
+                    ],
+                    "photo_reference": "ATJ83ziZZe_E39EKvPrhyddAT3cj6nUX3YMONz60CQw4GPzHYdJ8P8DEGZuDZYUkMu4MgV2tgn82o4qkqj5tT8MmlR8YNEk1wxPAJ8VHlAO4Y9myG_6_Y_Zio0MuC0_wGOQshWRqzFqWT9fjQhTNLwQHmwSkx5NRRZ2kHAXVjX7kldrzRZY_",
+                    "width": 4016
+                }
+            ],
+            "place_id": "ChIJU1CkyIy3t4kRa6gfvF_84DA",
+            "plus_code": {
+                "compound_code": "WX3J+CG Washington, District of Columbia",
+                "global_code": "87C4WX3J+CG"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJU1CkyIy3t4kRa6gfvF_84DA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "florist",
+                "supermarket",
+                "bakery",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1451,
+            "vicinity": "490 L St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9094279,
+                    "lng": -77.0478894
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.91082092989272,
+                        "lng": -77.04647512010727
+                    },
+                    "southwest": {
+                        "lat": 38.90812127010727,
+                        "lng": -77.04917477989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Metro Supermarket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112669798216873011206\">Jin Kyu Lim</a>"
+                    ],
+                    "photo_reference": "ATJ83ziowRfoAud2lKsyX1ac0UnllQnwc1hk0Fnx7Uu1sA5uRa8OqVTguWqRDyP_iouhrcragEP0gmlfcSIRbNCMsNLKnD-MYL7ESTCe2hwUPLcdXzeK3jf5LZvmu1LbYYn_oyCx-zQiq1nDkzRR54ma-rgVI204UF4lIGWnEPiG0cZ0VsrG",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJRy9DsMm3t4kR1FwU13J8DRs",
+            "plus_code": {
+                "compound_code": "WX52+QR Washington, District of Columbia",
+                "global_code": "87C4WX52+QR"
+            },
+            "rating": 3.9,
+            "reference": "ChIJRy9DsMm3t4kR1FwU13J8DRs",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 105,
+            "vicinity": "2130 P St NW #5, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9092854,
+                    "lng": -77.0335078
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.91082722989272,
+                        "lng": -77.03216422010729
+                    },
+                    "southwest": {
+                        "lat": 38.90812757010728,
+                        "lng": -77.03486387989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Whole Foods Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110935058437880985407\">Dallas Plummer</a>"
+                    ],
+                    "photo_reference": "ATJ83zioyLso7WAcmN9qf6KZZ5uQe7gAjwT__DcsKKJL7Nc3MBikX_MBTYVsrkuiotj_8Vav1eTdvIHvQSpjtV4351hb9LR3LUhMpfkrxa8pCy8EmgFfdGrKquDTZiIc9JVHrxImWsbZuY8VS224AydAX0lkGYp7qWRd3HR4IRrGEgHrsFf9",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJE_Jo2MG3t4kRDmuaghjExpo",
+            "plus_code": {
+                "compound_code": "WX58+PH Washington, District of Columbia",
+                "global_code": "87C4WX58+PH"
+            },
+            "price_level": 3,
+            "rating": 4.3,
+            "reference": "ChIJE_Jo2MG3t4kRDmuaghjExpo",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "liquor_store",
+                "supermarket",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2254,
+            "vicinity": "1440 P St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.885603,
+                    "lng": -77.1029807
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.88712262989272,
+                        "lng": -77.10209002010727
+                    },
+                    "southwest": {
+                        "lat": 38.88442297010728,
+                        "lng": -77.10478967989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Giant Food",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109492668444839880659\">paranoid android</a>"
+                    ],
+                    "photo_reference": "ATJ83zjmp_VQ-v7vA7CciQmHvawPvcKAuypVHcXWW0VELl1KRemf_yLOOflkhshTrqcXqTZyjSMWZFndICp6_axkw_tceEwG5wrJqsKLrQh8qe6Avp1Gl8AM2dt0yIPRdErFyIqZnNzc3ekYGj0Rb8l5bDqSMDYmZhemLrGwZvQIPvqJ8dVZ",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJR5lrzim0t4kRqU-HqLCbzQA",
+            "plus_code": {
+                "compound_code": "VVPW+6R Arlington, Virginia",
+                "global_code": "87C4VVPW+6R"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJR5lrzim0t4kRqU-HqLCbzQA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 793,
+            "vicinity": "3450 Washington Blvd, Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9562995,
+                    "lng": -77.0838907
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.95760432989272,
+                        "lng": -77.08230397010728
+                    },
+                    "southwest": {
+                        "lat": 38.95490467010728,
+                        "lng": -77.08500362989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Rodman's",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103386024139526427298\">Martin Brossman</a>"
+                    ],
+                    "photo_reference": "ATJ83zg5ZKTwnDvOYy4TG0KixcVzT0tL8RonQ6zD04VsM9HJw5G2zb_hp2OQLSRwhH0Th2QiFOfqN5D7NbBdPDol3TTZW4ikAOHrUcDulBjhSdJlAQ62KGwklOABboXI303J7K0Q_mIhFbrHHoIUlgzAPW0dpyYEd1M7JYO1KqzIwHlOdjji",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJxfO-cZTJt4kRAr2qfBmvEMw",
+            "plus_code": {
+                "compound_code": "XW48+GC Washington, District of Columbia",
+                "global_code": "87C4XW48+GC"
+            },
+            "rating": 4.6,
+            "reference": "ChIJxfO-cZTJt4kRAr2qfBmvEMw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "liquor_store",
+                "pharmacy",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 734,
+            "vicinity": "5100 Wisconsin Ave, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9058807,
+                    "lng": -77.0056597
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.90711287989271,
+                        "lng": -77.00401127010728
+                    },
+                    "southwest": {
+                        "lat": 38.90441322010727,
+                        "lng": -77.00671092989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Harris Teeter",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106091225435732667176\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATJ83zg3kp7DnBdbVGfHFFFs9E-3syS8VKZgOJwVDo4vk69-Azbog1ELzvS3j_6jnygapcp-sJj5YDymF6PJTSvGys5skfsgCkMgKyCcuSZ4PaiL91BqlpSO-Ezv9jQlk_qeDtMlEjH7oWOQIJVBXJjLyPz-EoWDd6o4xC53FHqXtGOjGFL5",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJhf_w3h64t4kRPCFKOAXCxg4",
+            "plus_code": {
+                "compound_code": "WX4V+9P Washington, District of Columbia",
+                "global_code": "87C4WX4V+9P"
+            },
+            "rating": 4.2,
+            "reference": "ChIJhf_w3h64t4kRPCFKOAXCxg4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "florist",
+                "bakery",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1995,
+            "vicinity": "1201 First St NE, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9067484,
+                    "lng": -77.0266936
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.90811542989272,
+                        "lng": -77.02551547010727
+                    },
+                    "southwest": {
+                        "lat": 38.90541577010728,
+                        "lng": -77.02821512989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Capitol Supermarket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106691860768426299185\">本山光一</a>"
+                    ],
+                    "photo_reference": "ATJ83zhrKeNVUXCgDNGepZ1YuX6EodMbR7GQ5gu8EZ-KA2Xptu6IEz-ZdbUTkeWKyfpJoJzyGjd7LevqU7xkIvqVKDAeSHqwlIk1ujQ_yt_C9wLDOQU0e1GnZOAtf4JTH07VrhNlrn4t0MGSkOjQGkWPDnQdeTRFghM981UCoG0XULeS7JiU",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJM23Hluy3t4kRLGK6yEyUqf4",
+            "plus_code": {
+                "compound_code": "WX4F+M8 Washington, District of Columbia",
+                "global_code": "87C4WX4F+M8"
+            },
+            "rating": 4.1,
+            "reference": "ChIJM23Hluy3t4kRLGK6yEyUqf4",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 379,
+            "vicinity": "1231 11th St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8776081,
+                    "lng": -77.0171562
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.87872397989272,
+                        "lng": -77.01593757010728
+                    },
+                    "southwest": {
+                        "lat": 38.87602432010728,
+                        "lng": -77.01863722989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Safeway",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113255838878226496525\">gloria figueroa</a>"
+                    ],
+                    "photo_reference": "ATJ83zhWVUIDKT3RerqKql8L5wV_af25xhrJu3yNN7CQ8Qwu5fVC9IKHo9kzq1D1htQ95W4NkOmzQxJMl9jMgDuSwk63DB4MJkfeBYyN4adbOWwiPzF8KDNQS8TjCDM6NaVIDLxiInOi6QtthQG6vDtXeHRwjXbzefeXIuGBJRJXWWfSHcee",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJuXWbmHu3t4kRTcr5NJH8FTA",
+            "plus_code": {
+                "compound_code": "VXHM+24 Washington, District of Columbia",
+                "global_code": "87C4VXHM+24"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJuXWbmHu3t4kRTcr5NJH8FTA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "florist",
+                "supermarket",
+                "bakery",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2043,
+            "vicinity": "1100 4th St SW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9008273,
+                    "lng": -77.0491667
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.90225152989272,
+                        "lng": -77.04766762010728
+                    },
+                    "southwest": {
+                        "lat": 38.89955187010728,
+                        "lng": -77.05036727989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Whole Foods Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101810068829626301924\">Austin Graff</a>"
+                    ],
+                    "photo_reference": "ATJ83zjKUIkfyMJV7E2cUn9uN7swe2RYI05q55R4aV-J-5VYStsURzJNu2r8QD4a5K1i1ByKXKxrjKTn2QMHr9NGyMitAokZGiCsKC9C8L6mTj7zV5sGgrVxUrRbPmLY8PW0EoQnyn2G_s1lEwKuufXJhHuGSkj0X3jIKtiCsi2_L4oJ1X9n",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJTVWCErG3t4kRZkxRCMAsVQw",
+            "plus_code": {
+                "compound_code": "WX22+88 Washington, District of Columbia",
+                "global_code": "87C4WX22+88"
+            },
+            "price_level": 3,
+            "rating": 4.1,
+            "reference": "ChIJTVWCErG3t4kRZkxRCMAsVQw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "liquor_store",
+                "supermarket",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2087,
+            "vicinity": "2201 I St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9384858,
+                    "lng": -77.0249913
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.93984882989273,
+                        "lng": -77.02387937010727
+                    },
+                    "southwest": {
+                        "lat": 38.93714917010728,
+                        "lng": -77.02657902989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Safeway",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117097881798202758136\">Raphael Tisch</a>"
+                    ],
+                    "photo_reference": "ATJ83ziWnRIylfwpdh2y_TTmddBp1STBztkjyjRiIjrbfFhdKm29X4YRW8uHKBVi-WKt5GeUbkpTQoo5OG2-ulhsPPohQT63FPbktgcjRDLtStHRaUhQRSiA9WDxomTpWTNpeoOkdHoQ26icEtxDVFNxSKG8Yf3QtFyQiWCUr4lLJWt6epOB",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJFYjvVhDIt4kRL8_zYyRLq5Y",
+            "plus_code": {
+                "compound_code": "WXQG+92 Washington, District of Columbia",
+                "global_code": "87C4WXQG+92"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJFYjvVhDIt4kRL8_zYyRLq5Y",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "florist",
+                "supermarket",
+                "bakery",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1915,
+            "vicinity": "3830 Georgia Ave NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9446958,
+                    "lng": -77.0325241
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.94604877989272,
+                        "lng": -77.03125542010727
+                    },
+                    "southwest": {
+                        "lat": 38.94334912010727,
+                        "lng": -77.03395507989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Super Saver Grocery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4008,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103429565272547689860\">Michael Jakim</a>"
+                    ],
+                    "photo_reference": "ATJ83zhLRAvX_KZD_GPlYk0nRaI8nTKZwjEngK_D0lqtfsSBjONzqAKEV620TKpcVD6NYshhgdJSkI_veLHRoht6LJBIAbLH1cZ4332__jYQM9QRQ42lyJLKjKSjQ8_0BPzGJyhXPAsvnE4Cz3ZE5f8N5dYIxCPKUuN_heieHqHaBwP-cfj6",
+                    "width": 5344
+                }
+            ],
+            "place_id": "ChIJhU01dxXIt4kRttkz1bmnm0M",
+            "plus_code": {
+                "compound_code": "WXV9+V2 Washington, District of Columbia",
+                "global_code": "87C4WXV9+V2"
+            },
+            "rating": 4.2,
+            "reference": "ChIJhU01dxXIt4kRttkz1bmnm0M",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "4413 14th St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9065157,
+                    "lng": -77.0484615
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.90783677989272,
+                        "lng": -77.04723067010728
+                    },
+                    "southwest": {
+                        "lat": 38.90513712010728,
+                        "lng": -77.04993032989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Streets Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101817684442319489079\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATJ83zgsWnsPEHcaWqZ-ORgqw1axjROG9DB2DXD8uFDakTsoQ1sezsL07kAfXlcfxS97x3_2MOgV_htkqQJbXx6FFiw5Om_B4JXWnEM8bYTJEa8k7YM52FSFAkMb1awrr0pdwzObQ5QlcopSXskLeR0i-iBGCAaAErMhREI18ug4YIkf-CC5",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJbUNN_A63t4kRATnIcosxFQM",
+            "plus_code": {
+                "compound_code": "WX42+JJ Washington, District of Columbia",
+                "global_code": "87C4WX42+JJ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJbUNN_A63t4kRATnIcosxFQM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 88,
+            "vicinity": "1255 22nd St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.886684,
+                    "lng": -77.094641
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.88798512989272,
+                        "lng": -77.09304372010729
+                    },
+                    "southwest": {
+                        "lat": 38.88528547010728,
+                        "lng": -77.09574337989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Trader Joe's",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112477693151868197212\">Mohammad A. Hoque</a>"
+                    ],
+                    "photo_reference": "ATJ83zinygfdcjDO2ounbRx9Uc6obkXHIwLkf2bRG72_OGfy8RxXDz8_EOL-s6Lpes452O5mDrM6V_nxmqIQ-5Egl_LwqOBiB1CXedsyEmNsSsfOn0BijL1BWqAeDYTa6m7Gitl_0mOBpPOh6z77ve8ouuJVFjAOHFYyBGmDAQ4X36Q6bVua",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJHUH5JIS2t4kRMB0PMBoJshU",
+            "plus_code": {
+                "compound_code": "VWP4+M4 Arlington, Virginia",
+                "global_code": "87C4VWP4+M4"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJHUH5JIS2t4kRMB0PMBoJshU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "liquor_store",
+                "supermarket",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1618,
+            "vicinity": "1109 N Highland St, Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8766293,
+                    "lng": -77.1098992
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.87811287989272,
+                        "lng": -77.10863597010727
+                    },
+                    "southwest": {
+                        "lat": 38.87541322010728,
+                        "lng": -77.11133562989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Harris Teeter",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110228711970269027104\">Alexander Maynard</a>"
+                    ],
+                    "photo_reference": "ATJ83zjaHk0RW-FlLCR9YStLFUMroXwRivPfziYrluANDlmeoXT_fO_w6v8TyHjHzMJbeE4CoYL7E-Gk_HWdqTbSTQY8FU-1Hsb_Ja2TdzO1KtrsxKi1cwd1Itp29jU0M2Po3lhLHCwAXK9YEIkPxbSn5Vtvvm7CST5kfSGzJRamEzxBj8_7",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJcbaPsSO0t4kReQ3TdVuJ6AI",
+            "plus_code": {
+                "compound_code": "VVGR+M2 Arlington, Virginia",
+                "global_code": "87C4VVGR+M2"
+            },
+            "rating": 4.3,
+            "reference": "ChIJcbaPsSO0t4kReQ3TdVuJ6AI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "florist",
+                "bakery",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1900,
+            "vicinity": "600 N Glebe Rd, Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9161281,
+                    "lng": -77.06728129999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.91725812989272,
+                        "lng": -77.06629062010728
+                    },
+                    "southwest": {
+                        "lat": 38.91455847010728,
+                        "lng": -77.06899027989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Safeway",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100610497729222966434\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATJ83zhv7jzzE1TcmOVtmz7af_8SKJta2sAV8jgH2MkiF_CrWXMWY7wG_MijDkxi5OESOIiiX1-e9gIbVOPa1NAyo309QCEjSbuN1JSDoZXAeLdVVb5yYxDQBxtJLkJ03hcnP5OKpuEkMq6zn88wp5aK0A2kRRH4qj5N36KXzvJeq5hbxTVA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ5XC3pjC2t4kRq8j9l30w0M4",
+            "plus_code": {
+                "compound_code": "WW8M+F3 Washington, District of Columbia",
+                "global_code": "87C4WW8M+F3"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJ5XC3pjC2t4kRq8j9l30w0M4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "florist",
+                "supermarket",
+                "bakery",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1327,
+            "vicinity": "1855 Wisconsin Ave NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8278195,
+                    "lng": -77.0896188
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.82934507989273,
+                        "lng": -77.08821082010728
+                    },
+                    "southwest": {
+                        "lat": 38.82664542010728,
+                        "lng": -77.09091047989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Safeway",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110141356746771256730\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATJ83zhWK-vunOHDkjU1RFQ2mw-teLIyexX3KPxGWM9aV07KH6wBIKMn9dOSl9BhathJIPTB9zRvi3fZM_F1vzaGYeEd3V9XRyjSm0pM0p6fWaJk-Yt46s4RhG7c0kPB0xUQxOkxELC0VBqd5zzyYi--ZHmaqKOPK-AfmqAatpGprA-TX177",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ3W01YGixt4kRp42sJZpPjhM",
+            "plus_code": {
+                "compound_code": "RWH6+45 Alexandria, Virginia",
+                "global_code": "87C4RWH6+45"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJ3W01YGixt4kRp42sJZpPjhM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "florist",
+                "supermarket",
+                "bakery",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1938,
+            "vicinity": "3526 King St, Alexandria"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9078215,
+                    "lng": -77.05802849999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.90917402989272,
+                        "lng": -77.05671607010727
+                    },
+                    "southwest": {
+                        "lat": 38.90647437010728,
+                        "lng": -77.05941572989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Scheele's Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100526703529052353488\">Kevin Sihuas</a>"
+                    ],
+                    "photo_reference": "ATJ83zjtANWf3o6rQgX3XvmF5zjHszqrFjG-pAXFPaLXWOE9WZ1cYnm00AolDpxD1L4hvQPjSaMhjtViNAKOhzU8s61R03egs5VOLyBmZ1T1Vu81uV2o8vDoRLUqwn-wse7qt8mMEbO3S4iRMMAWHy8h4w9pAnFuReQ5YHgIge0dMIUz8PxT",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ6btplkq2t4kRbUGDyLm3c54",
+            "plus_code": {
+                "compound_code": "WW5R+4R Washington, District of Columbia",
+                "global_code": "87C4WW5R+4R"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ6btplkq2t4kRbUGDyLm3c54",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40,
+            "vicinity": "1331 29th St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9219186,
+                    "lng": -77.03848359999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.92300327989271,
+                        "lng": -77.03719467010728
+                    },
+                    "southwest": {
+                        "lat": 38.92030362010727,
+                        "lng": -77.03989432989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Harris Teeter",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106017876177765296604\">Ryan McGorty</a>"
+                    ],
+                    "photo_reference": "ATJ83zgjdBN-RfqcvGkpvOMD3BvoRKujU0LymT53-PXxkDyNLQDzYiSfKj0wR3g1ltgafDHfXbsF-KHTSIKQact1svA9j4wfNTY18wTVUejA5gcscB94qUdSGe0a8lONS-LoX68-Gw8PD7hQ_fBn4pgce-rj9Wnc6VsBgi22oCVhsKmJcaWx",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJV3nNBdy3t4kR_hkL-DIumFk",
+            "plus_code": {
+                "compound_code": "WXC6+QJ Washington, District of Columbia",
+                "global_code": "87C4WXC6+QJ"
+            },
+            "price_level": 1,
+            "rating": 4.4,
+            "reference": "ChIJV3nNBdy3t4kR_hkL-DIumFk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "bakery",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1115,
+            "vicinity": "1631 Kalorama Rd NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9119596,
+                    "lng": -77.0386738
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.91326382989272,
+                        "lng": -77.03736497010726
+                    },
+                    "southwest": {
+                        "lat": 38.91056417010727,
+                        "lng": -77.04006462989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Safeway",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101579669221720846385\">Armin Urban</a>"
+                    ],
+                    "photo_reference": "ATJ83zjeMm-zRmI7xTz8rOco2DnrqjDYOekih5kI7uLLKM5euu2CxdRLL_a86xAeQPwFqLgJgv-lmsWT721t4lHrEE9vxEGeSShv6tKgCNCvyWkCCDCKLsvsGLJIP2dQUNgMmVyrXlXigVWQY4Y_gjml9MIcyoEx-qp3ePXMmnb9MMxvmsP6",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJt1kZ_MO3t4kRGnBmJWS1cMA",
+            "plus_code": {
+                "compound_code": "WX66+QG Washington, District of Columbia",
+                "global_code": "87C4WX66+QG"
+            },
+            "price_level": 2,
+            "rating": 3.6,
+            "reference": "ChIJt1kZ_MO3t4kRGnBmJWS1cMA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "florist",
+                "supermarket",
+                "bakery",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 873,
+            "vicinity": "1701 Corcoran St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9197861,
+                    "lng": -77.0246921
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.92117512989271,
+                        "lng": -77.02357672010727
+                    },
+                    "southwest": {
+                        "lat": 38.91847547010727,
+                        "lng": -77.02627637989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Whole Foods Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101171899384567190104\">Andy Feliciotti</a>"
+                    ],
+                    "photo_reference": "ATJ83zi7NDwwM3yUf18rz6Xutf7XwKaiUhYIYf0QZ6_-UoaEfFD_42nD8XTTR7TP-rsk7l5cBUQUOpPdcDDRaktmoy9pI1aJ1B_DG4B0AB2PxohVRziVTJJFACiStG8ME8oc8qnx6awIURwfQ8vsM7caPQi6RZd0tDAP7BDL_HpN4ezzTDwN",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ179ACYy3t4kRykKKG3eXbiI",
+            "plus_code": {
+                "compound_code": "WX9G+W4 Washington, District of Columbia",
+                "global_code": "87C4WX9G+W4"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ179ACYy3t4kRykKKG3eXbiI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "liquor_store",
+                "supermarket",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 439,
+            "vicinity": "967 Florida Ave NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8811234,
+                    "lng": -77.08497870000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.88239627989273,
+                        "lng": -77.08358662010727
+                    },
+                    "southwest": {
+                        "lat": 38.87969662010729,
+                        "lng": -77.08628627989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Market 365",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105263861337140605177\">Stephen Fernie</a>"
+                    ],
+                    "photo_reference": "ATJ83ziLuuPq7u2MlZZN6y1s4cr1G74257TFMLisNsUE7ENrMxh-_iAvN9qpyvkoNuE0F-UUg0wgvW-OXh7EXN2YjArNw8aJNi_BRyiq4UfCmb2BAu5lIgplhLieEqU1g12mERbR1ouaDlkaKDTh9r0C0qUj3CYkZbXkkCqYepXPNdZ1JLOX",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZa1U_o22t4kRG_p_g5CnUxg",
+            "plus_code": {
+                "compound_code": "VWJ8+C2 Arlington, Virginia",
+                "global_code": "87C4VWJ8+C2"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZa1U_o22t4kRG_p_g5CnUxg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40,
+            "vicinity": "2201 N Pershing Dr, Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9327991,
+                    "lng": -77.1804678
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.93407997989272,
+                        "lng": -77.17894752010727
+                    },
+                    "southwest": {
+                        "lat": 38.93138032010727,
+                        "lng": -77.18164717989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Giant Food",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109436313555526273804\">Baizhan Gabdullin</a>"
+                    ],
+                    "photo_reference": "ATJ83zjrOWdqd3dI7z4TYs5tEHExfSa5mSicmHpsq0dduy9fsxiyCJ7s6dbpq7TncIl_gZy3iaKMHArsB_gvl0UiB-7MeJIbu9u2Rx27co6DWu1AZObZ9_T0DcmgfbOPSzVCKTfdD91na6RSySaflIXr4A8aHVVvFK-FgCIchLzPixMEi556",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ_94o2ES1t4kRrhfvQ6MsmJw",
+            "plus_code": {
+                "compound_code": "WRM9+4R McLean, Virginia",
+                "global_code": "87C4WRM9+4R"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJ_94o2ES1t4kRrhfvQ6MsmJw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 611,
+            "vicinity": "1454 Chain Bridge Rd, McLean"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9134766,
+                    "lng": -77.0088178
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.91482537989272,
+                        "lng": -77.00754617010729
+                    },
+                    "southwest": {
+                        "lat": 38.91212572010728,
+                        "lng": -77.01024582989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "T & G Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111119174299157705103\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATJ83zgKvUD69EIyu8Bu0U2F_teqIyXjiMeg8cm7bpPT_DpYWGiMNP5G_MTwh204w173O3Q2-5Zy71CFSMkv0d9QBlqBTrygnhUcs6Co6hIBCgS8FVXNPINfX8umY7iFIooYrv56TSRhYk6u00RgO6uHfS_5iKfgBGqaJaXYIrv6gjr-QC1k",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJI0xuNR24t4kRsSEH_X3Cms4",
+            "plus_code": {
+                "compound_code": "WX7R+9F Washington, District of Columbia",
+                "global_code": "87C4WX7R+9F"
+            },
+            "rating": 3.9,
+            "reference": "ChIJI0xuNR24t4kRsSEH_X3Cms4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "convenience_store",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "1727 North Capitol St NE, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8457284,
+                    "lng": -77.0687217
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.84696422989272,
+                        "lng": -77.06744507010728
+                    },
+                    "southwest": {
+                        "lat": 38.84426457010728,
+                        "lng": -77.07014472989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Giant Food",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115946308995886137085\">Michael Hunter</a>"
+                    ],
+                    "photo_reference": "ATJ83zg1Tbca_I6QobbQWpc_aDhe5pHRXwKh9WNYccYCgYJ-u-Q97yXYjZp2s3BVPwX1JFb4Rzak3fbap_dvZiLxIUDeqL66Zt_2p6luolDThjeSMf18lX-G0Mv2lm3nKf1rPLorR1hzKCRlE-DXRzuSzqBYWiXWAShUD8xxZs8Emr01hy32",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJJQ3pYjKxt4kRTMdBm-7YfhU",
+            "plus_code": {
+                "compound_code": "RWWJ+7G Arlington, Virginia",
+                "global_code": "87C4RWWJ+7G"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJJQ3pYjKxt4kRTMdBm-7YfhU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 808,
+            "vicinity": "2901-11 S Glebe Rd, Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8652871,
+                    "lng": -77.06186099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.86647617989272,
+                        "lng": -77.06049912010728
+                    },
+                    "southwest": {
+                        "lat": 38.86377652010728,
+                        "lng": -77.06319877989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Harris Teeter",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117920589919707441121\">Kyle D</a>"
+                    ],
+                    "photo_reference": "ATJ83zhB_keK5yvJABzg6Joic4bZW0wO4QnOVONEPQ6HvvxknO0_qCPxD19-1PF2c7cbsyooidw7oAfFdNFJCJhnAfRiFsXYJ4c9BxEVc_EMw292sQ7r_dUlkJi1dZLz_M0mjTScKUyucOT2eghy9MY2B1QXo_f3EsdkHiWdifVs_xup56KF",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJJzsoHNy2t4kRYYGOziXeF84",
+            "plus_code": {
+                "compound_code": "VW8Q+47 Arlington, Virginia",
+                "global_code": "87C4VW8Q+47"
+            },
+            "rating": 4.3,
+            "reference": "ChIJJzsoHNy2t4kRYYGOziXeF84",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "florist",
+                "bakery",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 915,
+            "vicinity": "900 Army Navy Dr, Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.89652290000001,
+                    "lng": -77.0512511
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.89788717989273,
+                        "lng": -77.04998197010728
+                    },
+                    "southwest": {
+                        "lat": 38.89518752010729,
+                        "lng": -77.05268162989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Market At Columbia Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100155139698496128031\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATJ83zj8BopBHyg0RLGfEt63lIbznSvIhsoLkMy8JkdHViIUIMx3aKVbnj-Pm1n6ofUS9BGVFCCl3Rs4R5RSJDsHkedfPkT5zjcM6AxI0FHGJHYbMUGrE5TPE-n04JqId33bnIUyUunF3UAhh0Dno9HwGjaG-6qV0eDYUIB-Wvd0h0KmlnHP",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJj8brDq63t4kRYtmvNGRbkWw",
+            "plus_code": {
+                "compound_code": "VWWX+JF Washington, District of Columbia",
+                "global_code": "87C4VWWX+JF"
+            },
+            "rating": 4.3,
+            "reference": "ChIJj8brDq63t4kRYtmvNGRbkWw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "liquor_store",
+                "supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40,
+            "vicinity": "516 23rd St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8949712,
+                    "lng": -77.188856
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.89629292989273,
+                        "lng": -77.18770902010728
+                    },
+                    "southwest": {
+                        "lat": 38.89359327010728,
+                        "lng": -77.19040867989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Giant Food",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109492668444839880659\">paranoid android</a>"
+                    ],
+                    "photo_reference": "ATJ83zj5DvOsiAljp-vQRjYnEgyDXdLs-jnoxCuFMLW74glFUbqanTYyJQAFp4LvYJKCJAeRok5yH1oBpmZjFYihVjl_vdI1E3F3q6-9W48rZJS_TjAUkAa6HvGfLDT0O28KJRCBQwt5JNRVfwfcMR1TuWtUjuvoe9fGtXfH5MbrWtYyRPar",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJ4dkMKdK0t4kRnE_HZI3M3kQ",
+            "plus_code": {
+                "compound_code": "VRV6+XF Falls Church, Virginia",
+                "global_code": "87C4VRV6+XF"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJ4dkMKdK0t4kRnE_HZI3M3kQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 507,
+            "vicinity": "1230 W Broad St, Falls Church"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.828919,
+                    "lng": -77.09273399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.83032192989272,
+                        "lng": -77.09122867010728
+                    },
+                    "southwest": {
+                        "lat": 38.82762227010728,
+                        "lng": -77.09392832989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "The Fresh Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101495322301264076657\">ByAsa Photograhy</a>"
+                    ],
+                    "photo_reference": "ATJ83zgz2rvvX-EGSG36-GmHUELTvImBwORellAgsu6tHjHyDs5PDgyQK2M9V6SqTQl75nakwhTG5ORYf3WD1JOD1WtYlDuVxAZC6vi2OMp4dPNO7JfSnR1ES4A7TMLqo_qvSgNfXzCTnMlx7Qlbu2vZOy_emiHA652qavs4TI-Z879mANTn",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJI-2mxGext4kRZGlOId8Ykk8",
+            "plus_code": {
+                "compound_code": "RWH4+HW Alexandria, Virginia",
+                "global_code": "87C4RWH4+HW"
+            },
+            "price_level": 3,
+            "rating": 4.3,
+            "reference": "ChIJI-2mxGext4kRZGlOId8Ykk8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "supermarket",
+                "bakery",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 508,
+            "vicinity": "3680 King St, Alexandria"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8626628,
+                    "lng": -77.0546995
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.86395612989272,
+                        "lng": -77.05365137010727
+                    },
+                    "southwest": {
+                        "lat": 38.86125647010728,
+                        "lng": -77.05635102989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Whole Foods Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105755332691461160067\">Sergio Farias</a>"
+                    ],
+                    "photo_reference": "ATJ83zgLfhc5iWGu8uqFy6mXjCtFwyao3mUIMrtCuH7LdtWH3PgZm2wegu73vuIK1AAP95xz0QdBuGtKuXqMzv3yPi8OxscGP2SdaV-BJTLhgoHdP2uw-V_PB_INzpI1B7_gdrZ4Tm5v6ZEFLMGqb1UDmWc2F_8U-hr-Gjjvbm2TWWnCRZga",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJoVsIxSC3t4kRjz_SOwlmXeI",
+            "plus_code": {
+                "compound_code": "VW7W+34 Arlington, Virginia",
+                "global_code": "87C4VW7W+34"
+            },
+            "price_level": 3,
+            "rating": 4.4,
+            "reference": "ChIJoVsIxSC3t4kRjz_SOwlmXeI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "liquor_store",
+                "supermarket",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1841,
+            "vicinity": "520 12th St S Ste 100, Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8415566,
+                    "lng": -77.0901269
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.84273892989273,
+                        "lng": -77.08870947010728
+                    },
+                    "southwest": {
+                        "lat": 38.84003927010728,
+                        "lng": -77.09140912989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Harris Teeter",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108574831830643405145\">Daniel Shorstein</a>"
+                    ],
+                    "photo_reference": "ATJ83zhGqXwUiPllgR1cgnJCa7a3b_FTy8yfgWItUaM-72EFB8S-w2UVOjA5Wlg966G_oeU0cI90fLv5WcyOVrS4OgVPMrx6MJLz_qR4cwR5E9vsWOc3xVvXaGJJrvVlMIJ5oybW9Gt5hM7yK-uxmrk5bHi74BcnuYqLJBmYJIrKRa0p-Xvt",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJy9u77k-xt4kRO-rxh6bjknk",
+            "plus_code": {
+                "compound_code": "RWR5+JW Arlington, Virginia",
+                "global_code": "87C4RWR5+JW"
+            },
+            "rating": 4.1,
+            "reference": "ChIJy9u77k-xt4kRO-rxh6bjknk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "bakery",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 625,
+            "vicinity": "4250 Campbell Ave, Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8951512,
+                    "lng": -77.0747313
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.89625547989272,
+                        "lng": -77.07365637010727
+                    },
+                    "southwest": {
+                        "lat": 38.89355582010727,
+                        "lng": -77.07635602989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Safeway",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106755661422585843668\">waffain derp</a>"
+                    ],
+                    "photo_reference": "ATJ83zjVAU_T16pr-3Fa317RITzyXgru65dMvnadPMz8q3z02bekM_zPngyCo09ehiEgLgYKSJP67oAm7Qdp1RsPL6LDvXYZzMZ-vhsnQsaemUxKlhWj8gzeoC3-EZjqjkywoeMh16sPwcnAastQSBaAC49XMkXIIDtVSKDDVwaMKS7awZWN",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ99YonF62t4kR6O8AfOmMS1A",
+            "plus_code": {
+                "compound_code": "VWWG+34 Arlington, Virginia",
+                "global_code": "87C4VWWG+34"
+            },
+            "price_level": 2,
+            "rating": 3.7,
+            "reference": "ChIJ99YonF62t4kR6O8AfOmMS1A",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "florist",
+                "supermarket",
+                "bakery",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 839,
+            "vicinity": "1525 Wilson Blvd, Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8422828,
+                    "lng": -77.0516437
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.84379657989273,
+                        "lng": -77.05025377010728
+                    },
+                    "southwest": {
+                        "lat": 38.84109692010728,
+                        "lng": -77.05295342989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Harris Teeter",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117512614562577917414\">Chris Alex</a>"
+                    ],
+                    "photo_reference": "ATJ83zgDoV-ncbxeKabTBxUiqLxB8V-Ghq5WvIIqBzEtQNhvV5x2c5MZa6ixWqjYN-hYf-7_p-GKE897vizqRKvA1XeqoPYdyLxXaGORy26V7tYUeyVniFTeunci-JjFdXW7p6atKtmazNLEzWwBBS_zuHrcnjh7aw2rAIu2355G_bwTEWR2",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJO5kfDdSwt4kR_ArXNcd9y_4",
+            "plus_code": {
+                "compound_code": "RWRX+W8 Arlington, Virginia",
+                "global_code": "87C4RWRX+W8"
+            },
+            "rating": 4.4,
+            "reference": "ChIJO5kfDdSwt4kR_ArXNcd9y_4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "florist",
+                "bakery",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 728,
+            "vicinity": "3600 S Glebe Rd W100, Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8835427,
+                    "lng": -77.1738544
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.88450997989273,
+                        "lng": -77.17230032010728
+                    },
+                    "southwest": {
+                        "lat": 38.88181032010728,
+                        "lng": -77.17499997989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Harris Teeter",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112425905355506101708\">Tom Gutnick</a>"
+                    ],
+                    "photo_reference": "ATJ83zj4sBTvo-h1xhYgLCvvNyCa8LuWUy4b7crF-x2mEjiPOiv_Wo3Uyogndh-fw51v4Bx8salkz_G1PELwdCwnI9eI1BrjO4u07R9B_ZE6w9Ys1OA4ccAAaE4ZOkOYnuQd5tiIQp0rjOxUbNXQksZNJ9qdlJeFbXlpkoKBVrXH_7SSj0Qz",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ_fUur8G0t4kRbCRrea8q2YI",
+            "plus_code": {
+                "compound_code": "VRMG+CF Falls Church, Virginia",
+                "global_code": "87C4VRMG+CF"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ_fUur8G0t4kRbCRrea8q2YI",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "florist",
+                "bakery",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1105,
+            "vicinity": "301 W Broad St A, Falls Church"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9515894,
+                    "lng": -77.0083281
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.95294572989273,
+                        "lng": -77.00703752010727
+                    },
+                    "southwest": {
+                        "lat": 38.95024607010728,
+                        "lng": -77.00973717989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Price Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108654045359780930473\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATJ83zg8VS8GzBPPAXFhrSQDpNgXUMu4pj93x7T0HNxZcMgDS03nKiZXZzdABaA41zqL-DvuOEe5An9gGh_IJJ6OHbOl67vG8FeW9kEOp-BwTBNQ10_PV9BlSMZc_zppMT3ICTCA8J2lFo-seKaMXUxPLrgjSVFfP6U9T4_WN82da2dMFA0o",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJzeTe9tjHt4kRFAgD3ycAufc",
+            "plus_code": {
+                "compound_code": "XX2R+JM Washington, District of Columbia",
+                "global_code": "87C4XX2R+JM"
+            },
+            "rating": 4.1,
+            "reference": "ChIJzeTe9tjHt4kRFAgD3ycAufc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36,
+            "vicinity": "5018 Rock Creek Church Rd NE, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8313998,
+                    "lng": -77.1253607
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.83278502989273,
+                        "lng": -77.12409107010728
+                    },
+                    "southwest": {
+                        "lat": 38.83008537010728,
+                        "lng": -77.12679072989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Global Food",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2620,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104318910471111448209\">Ashraf Khan</a>"
+                    ],
+                    "photo_reference": "ATJ83zjq3LE10lCY5-X7U16o1ieSYNEXKqKw3eS_yfcx3AzlRmwh8tCaAzsJyVtqAGCLWQwznoTrBVsRGqXOTCwgoqrss2XUmfsLv2ePz6Ao7QMcGhf0dmEhnCC3pF6rdDnYFeCJxZseN-tc7XN28M94SkHOCVKkx-K4ac8tK8_3gMAVRzML",
+                    "width": 4656
+                }
+            ],
+            "place_id": "ChIJ85viiMCzt4kRo4S5ecgmKdM",
+            "plus_code": {
+                "compound_code": "RVJF+HV Alexandria, Virginia",
+                "global_code": "87C4RVJF+HV"
+            },
+            "rating": 4,
+            "reference": "ChIJ85viiMCzt4kRo4S5ecgmKdM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 734,
+            "vicinity": "1476 N Beauregard St, Alexandria"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.86375839999999,
+                    "lng": -77.0840274
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.86551947989273,
+                        "lng": -77.08312847010727
+                    },
+                    "southwest": {
+                        "lat": 38.86281982010728,
+                        "lng": -77.08582812989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Giant Food",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 853,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102577103022841863706\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATJ83zjRSQmQEkfG0zwrJiXhcQqyXZ94b1xMNOb6k9eFuCICJy9U22zcVDGA7qOzemZs4wzgo4UrnJZbc5WptUdQsBN8SjuujjWpc0cg1oqFIM989dQQRJHNa1pVV-9MmqW8mUpqQY3Pz90IhG73TyzjZq7bj-SrMS-1m5Z3RmyFsyOKFhz-",
+                    "width": 1279
+                }
+            ],
+            "place_id": "ChIJl1Mqc7m2t4kRSCOMIFbBiQM",
+            "plus_code": {
+                "compound_code": "VW78+G9 Arlington, Virginia",
+                "global_code": "87C4VW78+G9"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJl1Mqc7m2t4kRSCOMIFbBiQM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 780,
+            "vicinity": "2501 9th Rd S, Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9087354,
+                    "lng": -77.0196696
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.91009322989272,
+                        "lng": -77.01843877010727
+                    },
+                    "southwest": {
+                        "lat": 38.90739357010727,
+                        "lng": -77.02113842989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "ABC Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJkZabMPK3t4kRULgkwpUEnr8",
+            "plus_code": {
+                "compound_code": "WX5J+F4 Washington, District of Columbia",
+                "global_code": "87C4WX5J+F4"
+            },
+            "rating": 3.6,
+            "reference": "ChIJkZabMPK3t4kRULgkwpUEnr8",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "1401 6th St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9207654,
+                    "lng": -77.04365009999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.92211817989271,
+                        "lng": -77.04232612010728
+                    },
+                    "southwest": {
+                        "lat": 38.91941852010727,
+                        "lng": -77.04502577989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Streets Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108323851641809959769\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATJ83zgGKCO5GZKFU3u9a5RvX5C4EW4qWYFOcnOdwHvr2d9_F4snI5YE5e1bkGN6MjrBL_eueDf8JCd0fp_ttmxzpRjBf3SZ1LUyJ9lm27xxcjsLudtZfn_m_WEBPX2skETCfe-g2jSue8k0yNFJ0u2CjBycE8m3ioHtWElji4FQpmBCKkgw",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJObnStu-3t4kRujKPQEGZvoQ",
+            "plus_code": {
+                "compound_code": "WXC4+8H Washington, District of Columbia",
+                "global_code": "87C4WXC4+8H"
+            },
+            "rating": 4.5,
+            "reference": "ChIJObnStu-3t4kRujKPQEGZvoQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 51,
+            "vicinity": "1864 Columbia Rd NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8970361,
+                    "lng": -77.13749110000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.89832717989272,
+                        "lng": -77.13637022010727
+                    },
+                    "southwest": {
+                        "lat": 38.89562752010728,
+                        "lng": -77.13906987989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Harris Teeter",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109492668444839880659\">paranoid android</a>"
+                    ],
+                    "photo_reference": "ATJ83ziB93t7Rl1H_SatKLjXOZM7igKxpPW63ZSWwGB8j_HcakcphyH_dot_EwgvN-EhDY2RD9NE9lo2yvAxrrqt8FkWmrikNXJgjKmpKbt_PfpfVteGV9x4uvWtzUc8O2Z0_3gTXzBN-MBW9sZf3ARJ8N4fCr6sv2Ik4yCRF0XcN4qteATo",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJy5tqT0y0t4kRv_eSmyH_BR0",
+            "plus_code": {
+                "compound_code": "VVW7+R2 Arlington, Virginia",
+                "global_code": "87C4VVW7+R2"
+            },
+            "rating": 4.2,
+            "reference": "ChIJy5tqT0y0t4kRv_eSmyH_BR0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "florist",
+                "bakery",
+                "health",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 518,
+            "vicinity": "2425 N Harrison St, Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8731407,
+                    "lng": -77.01081139999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.87448947989272,
+                        "lng": -77.00941587010726
+                    },
+                    "southwest": {
+                        "lat": 38.87178982010727,
+                        "lng": -77.01211552989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Friendly Food Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101810068829626301924\">Austin Graff</a>"
+                    ],
+                    "photo_reference": "ATJ83zi0YW4gR-a1EgMEcPTCFlUlDZPJxkQwARUm1R1pe41EGYcljLnBAiwxY_HyZtY9o5du859eZlisEzM7yvvJOjifVdW8ek8pDTYukgEA-Vx_UUbfhDpHRRyTgWEW8quQFX8cTk_F6CPfzAB7waHlmvNRISTEyAcdtgt9jXEsq9G54_CW",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJGZ3aUH23t4kREvtUtDK2rVY",
+            "plus_code": {
+                "compound_code": "VXFQ+7J Washington, District of Columbia",
+                "global_code": "87C4VXFQ+7J"
+            },
+            "rating": 3.9,
+            "reference": "ChIJGZ3aUH23t4kREvtUtDK2rVY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 57,
+            "vicinity": "1399 Half St SW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9248736,
+                    "lng": -77.05202179999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.92618442989271,
+                        "lng": -77.05079552010729
+                    },
+                    "southwest": {
+                        "lat": 38.92348477010727,
+                        "lng": -77.05349517989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Manhattan Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109031018613942087679\">Chatarubhuj bhojwani</a>"
+                    ],
+                    "photo_reference": "ATJ83zgPUJvMzyc57PkeqFmMJVIcOMJQ-n6iq9i3mv0qSzcYGcDyFzQ_Jtx2Yq0lJH_E_l8BYq9VeNJZD5ngkuTzXrZwUiiMhy2cgtPY4uiw8nKPTDgqewKGU3OD5nBTKKUbHiyqRBq87ms681I39drLjlKqvZph7HLecSxQHLA4WE5gTI50",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJXW2_P9S3t4kRiwmPnM5u8Mk",
+            "plus_code": {
+                "compound_code": "WWFX+W5 Washington, District of Columbia",
+                "global_code": "87C4WWFX+W5"
+            },
+            "rating": 4.3,
+            "reference": "ChIJXW2_P9S3t4kRiwmPnM5u8Mk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 100,
+            "vicinity": "2647 Connecticut Ave NW A, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8967269,
+                    "lng": -77.10583419999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.89813762989273,
+                        "lng": -77.10425767010727
+                    },
+                    "southwest": {
+                        "lat": 38.89543797010728,
+                        "lng": -77.10695732989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Safeway",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112435275295526837147\">Shelby Drulis</a>"
+                    ],
+                    "photo_reference": "ATJ83zgUhfkkArnrdfVZTNdonPt0XqIE5RjMEpLflgrFLWSyF5TexRYx8CM2r1Vh5_ulJH6hx2oUyuC7kn2InBW5z_pdzBO4Af_0zfQTUtIXuMbUW2uC-P2_0Pqf0PhNZtudvdqo4XhG1yMpuRVJHjlTk-rNcyUzBF_gPFnLQzcWWl-Suu3V",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJd2vOVtS1t4kRzWQTufWIGCs",
+            "plus_code": {
+                "compound_code": "VVWV+MM Arlington, Virginia",
+                "global_code": "87C4VVWV+MM"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJd2vOVtS1t4kRzWQTufWIGCs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "florist",
+                "supermarket",
+                "bakery",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 572,
+            "vicinity": "3713 Langston Blvd., Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8445394,
+                    "lng": -77.1183844
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.84589782989272,
+                        "lng": -77.11699687010727
+                    },
+                    "southwest": {
+                        "lat": 38.84319817010728,
+                        "lng": -77.11969652989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Target Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111547302727016728704\">ambassador smudge</a>"
+                    ],
+                    "photo_reference": "ATJ83zhUyThNeRO3w0Qnr5fXO0J_nvfDxY1_M1VByuNO-zh436InzkiuixCuHAZ58_PIGNmCdAVSs1fIe26h2FdJ1cbVGLsuEcLuiqzXnvW8n0Ds88Mq_QLmj8oAgMEKRUHcjGAbsHiDKKeqrdaygdWFVdEmjA_QQTie3TEcBnBq39uBbhKG",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJB1M4-kezt4kR9IouqEhtrNg",
+            "plus_code": {
+                "compound_code": "RVVJ+RJ Falls Church, Virginia",
+                "global_code": "87C4RVVJ+RJ"
+            },
+            "rating": 4.2,
+            "reference": "ChIJB1M4-kezt4kR9IouqEhtrNg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 77,
+            "vicinity": "5115 Leesburg Pike, Falls Church"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8323111,
+                    "lng": -77.0499817
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.83368707989272,
+                        "lng": -77.04869982010729
+                    },
+                    "southwest": {
+                        "lat": 38.83098742010728,
+                        "lng": -77.05139947989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Giant Food",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108493259544626678617\">james malone</a>"
+                    ],
+                    "photo_reference": "ATJ83zif2QsFxXXQB_XkEhhIWyWaGfSKnf6rOIBVjwbWDKpbfsdTZlrQR38GXWq_PrA_EGLsbNB9p7WXhBOLkZ9H4grOf3zdyjkG6hLe5SnVRnLCpXpme_ZnRGNJlEDiKVM-X2Omk08qLKJ7Eda58MqleTFS2Aj03Y7svgoX4SBrFrvOAIug",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJDa2L1OOwt4kRwHLlW3wV2r4",
+            "plus_code": {
+                "compound_code": "RXJ2+V2 Alexandria, Virginia",
+                "global_code": "87C4RXJ2+V2"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJDa2L1OOwt4kRwHLlW3wV2r4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 906,
+            "vicinity": "621 E Glebe Rd, Alexandria"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9295555,
+                    "lng": -77.0332379
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.93083967989272,
+                        "lng": -77.03163522010728
+                    },
+                    "southwest": {
+                        "lat": 38.92814002010728,
+                        "lng": -77.03433487989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Target Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113747494827890976703\">tim kam</a>"
+                    ],
+                    "photo_reference": "ATJ83zhOkJ2A7fI2yrfheLw9OX-KFTRMGMXnyYrlrv3G_177Z1Xlkh-hexJ9p4zGLswjIgHMDswhXOf0S9bxTv-FR1rWbni_Nfa8GA03eF13G5zbvGbftmNPtEgVT1kUrbvI6TVzqUF9kVYkHhLgs8HZ-HiMa-4jW-Jp7FprvylFOat_pQYI",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJx3Hpq6XJt4kRiizo7b38Rik",
+            "plus_code": {
+                "compound_code": "WXH8+RP Washington, District of Columbia",
+                "global_code": "87C4WXH8+RP"
+            },
+            "rating": 4.5,
+            "reference": "ChIJx3Hpq6XJt4kRiizo7b38Rik",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 127,
+            "vicinity": "3100 14th St NW Ste 201, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8889866,
+                    "lng": -77.0910095
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.89025667989272,
+                        "lng": -77.08983922010727
+                    },
+                    "southwest": {
+                        "lat": 38.88755702010728,
+                        "lng": -77.09253887989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Whole Foods Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2240,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102318344788353619319\">Fumi Shingai</a>"
+                    ],
+                    "photo_reference": "ATJ83zigQK4Q-eo6JSgK8YYGgH2R1j3cf-iJwFd_pfmBfuKQd2pKJ7Uaii0bFi5zyh3N1vDNZDAzi2KuQp7XNB7A4EwMdyqYEv_jkO44Vs53UgGCyCOkh26vSmv-79PdfrHjAx9g7mqWtIbEaYe7roMMBV9wcIrkI8vBgUJzwwCQzjeABWoY",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJkW0ff4i2t4kR2aQB-7ZPMt4",
+            "plus_code": {
+                "compound_code": "VWQ5+HH Arlington, Virginia",
+                "global_code": "87C4VWQ5+HH"
+            },
+            "price_level": 3,
+            "rating": 4.2,
+            "reference": "ChIJkW0ff4i2t4kR2aQB-7ZPMt4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "liquor_store",
+                "supermarket",
+                "health",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1164,
+            "vicinity": "2700 Wilson Blvd, Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8365427,
+                    "lng": -77.0623762
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.83800012989272,
+                        "lng": -77.06088637010728
+                    },
+                    "southwest": {
+                        "lat": 38.83530047010728,
+                        "lng": -77.06358602989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Food Star",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107066946265641154660\">Alice Perea</a>"
+                    ],
+                    "photo_reference": "ATJ83zh44EFlKX5JfRh6mbkNvD7SrL8rUOp_cmyKCRgHldnzYtCqUVepu-RacZ-3M8YHUb8QcbVfc-V4ZxRnCmRMDMsqUzhpaqBsn-2lfmHIGBw7WYNHot16DsQqRZ4ivfst6Kd50Iym5PlFggMEanL1WzD1JJdnSwVIUwaeu2IXedujEPlM",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJUTzi4iWxt4kRW9JVRi98fEE",
+            "plus_code": {
+                "compound_code": "RWPQ+J2 Alexandria, Virginia",
+                "global_code": "87C4RWPQ+J2"
+            },
+            "rating": 4.1,
+            "reference": "ChIJUTzi4iWxt4kRW9JVRi98fEE",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 546,
+            "vicinity": "206 W Glebe Rd, Alexandria"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.930875,
+                    "lng": -77.038528
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.93226047989272,
+                        "lng": -77.03702822010727
+                    },
+                    "southwest": {
+                        "lat": 38.92956082010728,
+                        "lng": -77.03972787989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "BestWorld Supermarket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114713939129094622916\">Yobani Garcia</a>"
+                    ],
+                    "photo_reference": "ATJ83zjfmWAl3jdCVVc3nKkUqHEeFKHxqNiBj4mlAXvn1c0ukJfydTBHfZvpuQWy46LJakPcwhQG42zOaT1Xm0duIOAIu7U5DqZ3yPAYLiEqYfN1k6aR-WfZMNEz8v3vbA3t_GS37TVVvnQURqqN6K5DH_WEJtvQmCj-t3_MGGobYxwKisE0",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ80jrNyHIt4kRf9zX1J6dKKg",
+            "plus_code": {
+                "compound_code": "WXJ6+9H Washington, District of Columbia",
+                "global_code": "87C4WXJ6+9H"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ80jrNyHIt4kRf9zX1J6dKKg",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 172,
+            "vicinity": "3178 Mt Pleasant St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9132047,
+                    "lng": -77.03172459999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.91453342989271,
+                        "lng": -77.03038562010727
+                    },
+                    "southwest": {
+                        "lat": 38.91183377010727,
+                        "lng": -77.0330852798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Amazon Fresh",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112502238614808979046\">Philip Suh</a>"
+                    ],
+                    "photo_reference": "ATJ83zj6FJOVMKmUdDoCYZfl6nusShoMlvyaGWecBFp1xOhKl8FJuYXhuUNfb8MkrN8jxUbHE_0Gp-YN5Ak29TDGGLGRHrvTIrVABEvdRmSTOgdm6WP8Sb0iM1Gs4cjolWYFdPnAUCVikY562tAm6RPa58FW1PbBRFwOpQnZ7iYTipNC1QQ9",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJK2kQNYG3t4kRGwoPO5wBCZM",
+            "plus_code": {
+                "compound_code": "WX79+78 Washington, District of Columbia",
+                "global_code": "87C4WX79+78"
+            },
+            "rating": 4.2,
+            "reference": "ChIJK2kQNYG3t4kRGwoPO5wBCZM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "liquor_store",
+                "supermarket",
+                "bakery",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 167,
+            "vicinity": "1733 14th St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9423215,
+                    "lng": -77.0152258
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.94361327989273,
+                        "lng": -77.01388397010727
+                    },
+                    "southwest": {
+                        "lat": 38.94091362010729,
+                        "lng": -77.01658362989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Upshur Grocery & Deli / Beer & Wine",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2116,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117765729175877349324\">Christopher Rey Cinco</a>"
+                    ],
+                    "photo_reference": "ATJ83zieI89XTL7dPBKSX9GftwrgoPECR8oJOui0pCj3dY8Zt-Ad8agN0lztbLmLlZkVyl9RQ9DzpquOIRQ9u-suaEVfFdPcN6RErmYoVrFUdUV1SPz6-3OxAEKL16los7n7sO44z-n_gS_tsOaYqiTg0n_QBfXgjJw3K4ongml6Yv0CchVG",
+                    "width": 2148
+                }
+            ],
+            "place_id": "ChIJTzeinQvIt4kRdJ5gZPL4InM",
+            "plus_code": {
+                "compound_code": "WXRM+WW Washington, District of Columbia",
+                "global_code": "87C4WXRM+WW"
+            },
+            "rating": 4.7,
+            "reference": "ChIJTzeinQvIt4kRdJ5gZPL4InM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "233 Upshur St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.873944,
+                    "lng": -77.1056858
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.87531972989272,
+                        "lng": -77.10432047010727
+                    },
+                    "southwest": {
+                        "lat": 38.87262007010728,
+                        "lng": -77.10702012989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Glebe Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2252,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108814101570744263148\">Heidi Bertels</a>"
+                    ],
+                    "photo_reference": "ATJ83ziCShaAdaGHx7oDg6QXPO_NkXVz78RjB4adRyy6KIRvIgkG8qH32hJU9_IMd6yMPzJzZmpCPkvFJ1Pe2dEkZ_eeY1C598Z-IN-Pe0aXlzYWl2dWvXMRBc9wq6dC6oV532jNOHXaZjl59gdXHjiAk4mByVqdUcpOwViN3bHOZsLlDTn4",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJi2LlzyG0t4kRS6i57FpWofk",
+            "plus_code": {
+                "compound_code": "VVFV+HP Arlington, Virginia",
+                "global_code": "87C4VVFV+HP"
+            },
+            "rating": 4,
+            "reference": "ChIJi2LlzyG0t4kRS6i57FpWofk",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 131,
+            "vicinity": "300 N Glebe Rd, Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8510336,
+                    "lng": -77.1327867
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.85226852989272,
+                        "lng": -77.13129747010728
+                    },
+                    "southwest": {
+                        "lat": 38.84956887010728,
+                        "lng": -77.13399712989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Trader Joe's",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103688006787083836134\">Levi Wallach</a>"
+                    ],
+                    "photo_reference": "ATJ83zgRIKMar_94dze2VbUNAABPsaiTZBUSR6uMeE8mEb_7YTSNjt1ks9OtrhmKbeN60Dqk9S9FnqieyQWl792jLqvzUI51KD_5rQy8OraFqZ7VEweHf2yPiPFY3equvcGdOxqJOMhiw7V3H66j3Igm3JE6tiQ0WcOR6FA5Ll7VA96HrrnM",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJSY8EZ4mzt4kRhR_-drb07Og",
+            "plus_code": {
+                "compound_code": "VV28+CV Bailey's Crossroads, Virginia",
+                "global_code": "87C4VV28+CV"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJSY8EZ4mzt4kRhR_-drb07Og",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "liquor_store",
+                "supermarket",
+                "health",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1601,
+            "vicinity": "5847 Leesburg Pike, Bailey's Crossroads"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9208477,
+                    "lng": -77.1503367
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.92207092989273,
+                        "lng": -77.14908832010727
+                    },
+                    "southwest": {
+                        "lat": 38.91937127010728,
+                        "lng": -77.15178797989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Safeway",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110040228537160821609\">Ilona Reichenbach</a>"
+                    ],
+                    "photo_reference": "ATJ83zhg0hIcq1c-40iEfqxLw1bXA1DPpvY3Z9cn2rom5r5iFmmV5RCjP2awYGd7YtmY7lD-udWpvjaX5B3PnEheFcRuT5h-ABX3c4o1gwaULES4m4Jw9-00VFoVkj_md-7FtDptKg0ZZlFk6H_oBWa9rt5L9WhJ9Mj9OAt5wZX6qLol0Tmo",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJj9ivJHW1t4kR8U5Z9RruJBs",
+            "plus_code": {
+                "compound_code": "WRCX+8V McLean, Virginia",
+                "global_code": "87C4WRCX+8V"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJj9ivJHW1t4kR8U5Z9RruJBs",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "florist",
+                "supermarket",
+                "bakery",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 212,
+            "vicinity": "6244 Old Dominion Dr, McLean"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8968785,
+                    "lng": -77.11359539999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.89825852989272,
+                        "lng": -77.11221397010728
+                    },
+                    "southwest": {
+                        "lat": 38.89555887010728,
+                        "lng": -77.11491362989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "La Union Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117314408635669691622\">D. Chestlee Settles</a>"
+                    ],
+                    "photo_reference": "ATJ83ziirBiMQc02iw0wl9R5hkez7Ih4jtgkm6Z_8LnnjenoskXyXQpiGGknv413FDESsje4exBqRWp8FApMuPSAXR8ke368i9UqOCfo2QNrZs9Vmul2ltcC6LlPOZc5jHXUquyMWxAqWGuGnOMqrjb8vGd86jt2M-8_pWLA0lzZ7XsbQrR5",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ063IhtK1t4kRuoFTL574lNo",
+            "plus_code": {
+                "compound_code": "VVWP+PH Arlington, Virginia",
+                "global_code": "87C4VVWP+PH"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ063IhtK1t4kRuoFTL574lNo",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 101,
+            "vicinity": "4308 Cherry Hill Rd, Arlington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.91601850000001,
+                    "lng": -77.0487648
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.91742677989272,
+                        "lng": -77.04744692010728
+                    },
+                    "southwest": {
+                        "lat": 38.91472712010728,
+                        "lng": -77.05014657989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Open Door Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108374225488885199081\">Shelly Jackson</a>"
+                    ],
+                    "photo_reference": "ATJ83zhXcAfyIsPhGF0ZrQJxXbIexW1iyl7Ya7Uty0DCm56PIz9RTbrIrwVyyWss5vnTYnpeFbo4wT1tuXP2YjtT-NYCLbZPr828Q4EEPCWYD6xnAAemElOQ6UUHRbDoYiSStdXMm4C0YyFU_XwW--rZ3l8L9CF1D4Xogpxu7HgAKr__HRWF",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ9XXEWs63t4kR6M0kzCYpnR0",
+            "plus_code": {
+                "compound_code": "WX82+CF Washington, District of Columbia",
+                "global_code": "87C4WX82+CF"
+            },
+            "rating": 4,
+            "reference": "ChIJ9XXEWs63t4kR6M0kzCYpnR0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 59,
+            "vicinity": "2160 California St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.9266791,
+                    "lng": -77.0268597
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.92807302989273,
+                        "lng": -77.02545642010728
+                    },
+                    "southwest": {
+                        "lat": 38.92537337010728,
+                        "lng": -77.02815607989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Sonya's Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117831781939022479873\">Oscar Viera</a>"
+                    ],
+                    "photo_reference": "ATJ83zhKjKpI9rMzHlNebcq0AhoNCO2GGny-mIl0_93mGriG8abjTqFXtSt-gqpCKFrXfCO4ZyT-J1WzvT0jpBjigW-nXbsxhf-oYsWhQPHX3uspuWm69YHEkTMGn4Qpea9P7upbyCpdF7osD4pMu3BGDco7ulSkqc_EAG_nQVimMgSCoKpE",
+                    "width": 3036
+                }
+            ],
+            "place_id": "ChIJRb4Y7x3It4kRdRTQIA8Frnw",
+            "plus_code": {
+                "compound_code": "WXGF+M7 Washington, District of Columbia",
+                "global_code": "87C4WXGF+M7"
+            },
+            "rating": 4.5,
+            "reference": "ChIJRb4Y7x3It4kRdRTQIA8Frnw",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 59,
+            "vicinity": "2833 11th St NW, Washington"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.8628569,
+                    "lng": -77.08446429999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.86411367989272,
+                        "lng": -77.08306342010728
+                    },
+                    "southwest": {
+                        "lat": 38.86141402010728,
+                        "lng": -77.08576307989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Arlington Grocery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108620608744951517058\">wise achakzai</a>"
+                    ],
+                    "photo_reference": "ATJ83zhyJ_UMd5bdpBvbrxtHPQVtRukAaulIE6V0dRGuoj8Ts38VYZFUzVocYYssQm7_-KP0r0dztTZrT-77fE3IL0VAZrSaaGMZsOynqssU1vve7YaOPefc2h5E-WwEqB6MrEcPaMJTONJneZDyp7MDM_1o_DjMhmxF4Tv4SZtyGfEq8Ry6",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ5zAaebm2t4kR4FjHwnbB-2k",
+            "plus_code": {
+                "compound_code": "VW78+46 Arlington, Virginia",
+                "global_code": "87C4VW78+46"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ5zAaebm2t4kR4FjHwnbB-2k",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 86,
+            "vicinity": "2524 Columbia Pike, Arlington"
+        }
+    ],
+    "status": "OK"
+}

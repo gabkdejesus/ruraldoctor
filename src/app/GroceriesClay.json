@@ -1,0 +1,317 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.3869247,
+                    "lng": -81.11536389999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.38827887989271,
+                        "lng": -81.11387262010727
+                    },
+                    "southwest": {
+                        "lat": 38.38557922010727,
+                        "lng": -81.11657227989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "House's Supermarket",
+            "opening_hours": {},
+            "place_id": "ChIJoahvTK9LSYgReKriuaidR70",
+            "plus_code": {
+                "compound_code": "9VPM+QR Bickmore, West Virginia",
+                "global_code": "86CW9VPM+QR"
+            },
+            "rating": 4.5,
+            "reference": "ChIJoahvTK9LSYgReKriuaidR70",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "7080 Clay Highway, Bickmore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.4597969,
+                    "lng": -81.0777674
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.46115912989272,
+                        "lng": -81.07642327010728
+                    },
+                    "southwest": {
+                        "lat": 38.45845947010728,
+                        "lng": -81.07912292989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Family Dollar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117144328276789065420\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATJ83zhKAx8qRk3n8gvzL3qeO58LFJrT7_qHScvUA7NdQestfO9sdtJRaKFknnAWvhP2TvOahxTVnxrzpte3UjeXFCEKfCNxQezL7wpR-jMN7ALeMCqVSnIkDy4z4k3EfVI348lXKrbSk8YMr-SXfmZ5Fd7qfy0F03sSXNWD4-9J0VmIEm0B",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJv4VMNrVISYgRSgjAa9paDIQ",
+            "plus_code": {
+                "compound_code": "FW5C+VW Clay, West Virginia",
+                "global_code": "86CWFW5C+VW"
+            },
+            "price_level": 1,
+            "rating": 3.7,
+            "reference": "ChIJv4VMNrVISYgRSgjAa9paDIQ",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "liquor_store",
+                "clothing_store",
+                "grocery_or_supermarket",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 61,
+            "vicinity": "274 Main St #16, Clay"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.4605639,
+                    "lng": -81.0867351
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.46200372989272,
+                        "lng": -81.08538432010727
+                    },
+                    "southwest": {
+                        "lat": 38.45930407010728,
+                        "lng": -81.08808397989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dollar General",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 500,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115412130229877189484\">Dollar General</a>"
+                    ],
+                    "photo_reference": "ATJ83zgFCafZIVeFZasn8dFfvDavfmIJalm_Qbz_cKuAtQjf3MciooosJcFqF_IdENFQAdNY2Qlx3I1nITprc1ShrSKYkttSAbtqRH-sIx4mVQUffhK-7ZA3T9ZAWTe3T94_la-w7AKyH1-v1vVOT75ul4N_hCaBgawEheZf62OsHSba0WD3",
+                    "width": 500
+                }
+            ],
+            "place_id": "ChIJYZ4QHbhISYgRBBJrdyX46uU",
+            "plus_code": {
+                "compound_code": "FW67+68 Clay, West Virginia",
+                "global_code": "86CWFW67+68"
+            },
+            "price_level": 1,
+            "rating": 3.8,
+            "reference": "ChIJYZ4QHbhISYgRBBJrdyX46uU",
+            "scope": "GOOGLE",
+            "types": [
+                "drugstore",
+                "convenience_store",
+                "home_goods_store",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 107,
+            "vicinity": "117 Main St, Clay"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.4761243,
+                    "lng": -81.0842095
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.47736817989272,
+                        "lng": -81.08292082010729
+                    },
+                    "southwest": {
+                        "lat": 38.47466852010728,
+                        "lng": -81.08562047989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+            "name": "Go Mart Inc",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104440076287549228306\">Jessie Cooper</a>"
+                    ],
+                    "photo_reference": "ATJ83ziV0z_ujh21A4rhqa_nLrPIdNFAXcu4wia0tQChVYJErR7eOO_xuRQbvQEpdSgx_vlraegQfBEENbhPYfnHiFbDOW-ID1Ql50wK50juGV39r5l3Ge5YD4jT0bQgB0KntMPx94yHTK0bp7AgrQIKaMwVQCRZVSshGCDPdkw3T6LOvOsq",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJ_csZlXtPSYgRfwY7XvVSlB8",
+            "plus_code": {
+                "compound_code": "FWG8+C8 Clay, West Virginia",
+                "global_code": "86CWFWG8+C8"
+            },
+            "rating": 4,
+            "reference": "ChIJ_csZlXtPSYgRfwY7XvVSlB8",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 144,
+            "vicinity": "Clay-Maysel, Clay"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.4597801,
+                    "lng": -81.08409279999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.46120842989272,
+                        "lng": -81.08269737010728
+                    },
+                    "southwest": {
+                        "lat": 38.45850877010727,
+                        "lng": -81.08539702989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Walgreens",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103348574815571915925\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATJ83zjt56rp6FQi2ssuIXRYy4prQXPRMXIwHZ3qwT13WjIzA5QIpYXuTPStaGirLbt1QJrYBBWVwBshGfNXAIUyMqshbowTUgf3cuv9L-lttkfqz6a8FbbUsYLcqnKN5drA3C7tjvM4-Er-60orVdKYspggbHEK324vT2KCmedIT-0uGxV4",
+                    "width": 611
+                }
+            ],
+            "place_id": "ChIJ-ZJEg1VJSYgR5EZzKzQLhik",
+            "plus_code": {
+                "compound_code": "FW58+V8 Clay, West Virginia",
+                "global_code": "86CWFW58+V8"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ-ZJEg1VJSYgR5EZzKzQLhik",
+            "scope": "GOOGLE",
+            "types": [
+                "drugstore",
+                "convenience_store",
+                "clothing_store",
+                "store",
+                "health",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "173 Main St, Clay"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.5345407,
+                    "lng": -81.0308989
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.53586977989273,
+                        "lng": -81.02958342010729
+                    },
+                    "southwest": {
+                        "lat": 38.53317012010729,
+                        "lng": -81.03228307989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Little House Primitives",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108396935113542748395\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATJ83zieGWlttCFlWZlUqEnCSeh1hnC-pxWB1-wYMkEUgyZzXZrjRLHDz22aKucmzZzjmifxw1zDdeIQD6IY_-oVahcxDRrJvOZM_VXz5rx69ci_KfDN8cR7B9Hk_UIsYEI_6blmimbaq7W1FvNcy88OLklPalWaixYMgFV1H2TzwtX4hzpB",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJzfs2ZLFFSYgRvwzXnU0w9EA",
+            "plus_code": {
+                "compound_code": "GXM9+RJ Ivydale, West Virginia",
+                "global_code": "86CWGXM9+RJ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJzfs2ZLFFSYgRvwzXnU0w9EA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "10379 Ivydale Rd, Ivydale"
+        }
+    ],
+    "status": "OK"
+}

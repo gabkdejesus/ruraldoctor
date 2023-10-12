@@ -1,0 +1,50 @@
+[
+  {
+    "zip_code": 22201,
+    "latitude": 38.885484,
+    "longitude": -77.099113,
+    "city": "Arlington",
+    "state": "VA",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 99926,
+    "latitude": 55.094325,
+    "longitude": -131.566827,
+    "city": "Metlakatla",
+    "state": "AK",
+    "county": "Prince Wales Ketchikan"
+  },
+  {
+    "zip_code": 99927,
+    "latitude": 55.517921,
+    "longitude": -132.003244,
+    "city": "Point Baker",
+    "state": "AK",
+    "county": "Prince Wales Ketchikan"
+  },
+  {
+    "zip_code": 99928,
+    "latitude": 55.395359,
+    "longitude": -131.67537,
+    "city": "Ward Cove",
+    "state": "AK",
+    "county": "Ketchikan Gateway"
+  },
+  {
+    "zip_code": 99929,
+    "latitude": 56.449893,
+    "longitude": -132.364407,
+    "city": "Wrangell",
+    "state": "AK",
+    "county": "Wrangell Petersburg"
+  },
+  {
+    "zip_code": 99950,
+    "latitude": 55.542007,
+    "longitude": -131.432682,
+    "city": "Ketchikan",
+    "state": "AK",
+    "county": "Ketchikan Gateway"
+  }
+]
